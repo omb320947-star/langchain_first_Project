@@ -3,3 +3,8 @@ langchain-community
 pypdf
 python-docx
 unstructured
+Flask
+python-dotenv
+langchain-core
+langchain-google-genai
+gunicorn
